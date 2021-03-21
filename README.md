@@ -3,7 +3,7 @@
 ## Olá sou o Dornellas :)
 ## Tech Lead 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/mvdornellas/)
+[![](https://img.shields.io/badge/Linkedin-Marco%20Dornellas-blue)](https://www.linkedin.com/in/mvdornellas/)
 [![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:dornellas13@gmail.com)
 
 
