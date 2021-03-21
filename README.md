@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Olá sou o Dornellas :)
-## Full Stack Developer 👨‍💻
+## Tech Lead 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/mvdornellas/)
 [![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:dornellas13@gmail.com)
@@ -13,13 +13,12 @@
 const dornellas = {
     askMeAbout: ["app dev", "web dev", "tech", "software architect"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
+        backEnd: ["c#", "nodejs", "express", "python"],
         fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
+        mobileApp: ["react native","angular"],
+        database: ["dynamoDB","mongo","SQL SERVER","MySQL"],
+        serverless: ["aws-lambda"],
+        devOps: ["AWS", "Jenkins", "Bitbucket pipeline"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
