@@ -11,13 +11,13 @@
 
 ```javascript
 const dornellas = {
-    askMeAbout: ["app dev", "web dev", "tech", "software architect"],
+    askMeAbout: ["tech lead", "software architect", "senior software engineer"],
     technologies:{
-        backEnd: ["c#", "nodejs", "express", "python"],
-        fronEnd: ["angular"],
+        backEnd: ["c#", "nodeJS", "ruby", "python", "typescript"],
+        fronEnd: ["angular", "react", "electron"],
         mobileApp: ["react native","angular"],
-        database: ["dynamoDB","mongo","SQL SERVER","MySQL"],
-        serverless: ["aws-lambda"],
+        database: ["dynamoDB","mongo","sqlServer","mySql", "redis", "elasticCache"],
+        awsResources: ["aws-lambda", "sns", "sqs", "dynamoDb", "athena", "glue", "textract", "ecs", "ec2", "cognito", "apiGateway"],
         devOps: ["AWS", "Jenkins", "Bitbucket pipeline"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
@@ -25,4 +25,4 @@ const dornellas = {
 ```
 
 ---
-⭐️ De [@dornellas13](https://github.com/dornellas13)
+⭐️ [@dornellas13](https://github.com/dornellas13)
